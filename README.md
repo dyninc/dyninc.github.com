@@ -1,2 +1,0 @@
-dyninc.github.com
-=================
